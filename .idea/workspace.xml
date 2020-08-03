@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="untitled2" targetName="untitled2" />
+      <config projectName="untitled4" targetName="untitled4" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d87e055-71bf-4c01-8066-61e34705b89a" name="Default Changelist" comment="" />
+    <list default="true" id="cab047db-724c-4162-be1b-0965bd78e3d9" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,48 +30,69 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="56" />
+            <state relative-caret-position="231">
+              <caret line="11" column="22" lean-forward="true" selection-end-line="173" selection-end-column="1" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
-                <element signature="e#6040#6163#0" />
-                <element signature="e#6165#6758#0" />
-                <element signature="e#6760#9032#0" />
-                <element signature="e#9034#15554#0" />
-                <element signature="e#15556#22094#0" />
-                <element signature="e#22096#25813#0" />
-                <element signature="e#25815#26381#0" />
-                <marker date="1555502287872" expanded="true" signature="1616:2588" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://C:/MinGW/include/stdio.h">
+        <entry file="file://$PROJECT_DIR$/project_8.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8757">
-              <caret line="417" column="37" selection-start-line="417" selection-start-column="37" selection-end-line="417" selection-end-column="37" />
+            <state relative-caret-position="567">
+              <caret line="530" lean-forward="true" selection-start-line="530" selection-end-line="530" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#159#637#0" />
+                <element signature="e#764#1352#0" />
+                <element signature="e#1354#3626#0" />
+                <element signature="e#3628#10148#0" />
+                <element signature="e#10150#16694#0" />
+                <element signature="e#16696#20413#0" />
+                <element signature="e#20415#20981#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project_8.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+              <folding>
+                <element signature="e#350#454#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pozicie</find>
+    </findStrings>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/project_8.h" />
+        <option value="$PROJECT_DIR$/project_8.c" />
         <option value="$PROJECT_DIR$/main.c" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="277" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
     <option name="y" value="30" />
-    <option name="width" value="1650" />
+    <option name="width" value="974" />
     <option name="height" value="1057" />
   </component>
   <component name="ProjectView">
@@ -79,8 +100,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="untitled4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled4" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -102,7 +133,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="untitled2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled2" TARGET_NAME="untitled2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled2" RUN_TARGET_NAME="untitled2">
+    <configuration name="untitled4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled4" TARGET_NAME="untitled4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled4" RUN_TARGET_NAME="untitled4">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -113,26 +144,19 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4d87e055-71bf-4c01-8066-61e34705b89a" name="Default Changelist" comment="" />
-      <created>1554279876672</created>
+      <changelist id="cab047db-724c-4162-be1b-0965bd78e3d9" name="Default Changelist" comment="" />
+      <created>1555509537240</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1554279876672</updated>
-      <workItem from="1554279878949" duration="4626000" />
-      <workItem from="1554718864037" duration="3371000" />
-      <workItem from="1554825173861" duration="1085000" />
-      <workItem from="1555171899277" duration="582000" />
-      <workItem from="1555251326023" duration="3379000" />
-      <workItem from="1555323103395" duration="609000" />
-      <workItem from="1555346175906" duration="18648000" />
-      <workItem from="1555417181211" duration="34981000" />
-      <workItem from="1555502180644" duration="146000" />
-      <workItem from="1555509497675" duration="691000" />
+      <updated>1555509537240</updated>
+      <workItem from="1555509539517" duration="3381000" />
+      <workItem from="1555562728980" duration="1227000" />
+      <workItem from="1557191565617" duration="4463000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68118000" />
+    <option name="totallyTimeSpent" value="9071000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -144,24 +168,25 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
+    <frame x="-7" y="30" width="974" height="1057" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21055438" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35448578" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.301179" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21864952" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39935064" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3292683" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32900432" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.5551983" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3292683" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.47727272" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32900432" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="CMake" order="12" weight="0.3292683" />
+      <window_info anchor="bottom" id="CMake" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -175,27 +200,39 @@
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://C:/MinGW/include/stdio.h">
+    <entry file="file://$PROJECT_DIR$/main.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8757">
-          <caret line="417" column="37" selection-start-line="417" selection-start-column="37" selection-end-line="417" selection-end-column="37" />
+        <state relative-caret-position="231">
+          <caret line="11" column="22" lean-forward="true" selection-end-line="173" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.c">
+    <entry file="file://$PROJECT_DIR$/project_8.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="56" />
+        <state relative-caret-position="567">
+          <caret line="530" lean-forward="true" selection-start-line="530" selection-end-line="530" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
-            <element signature="e#6040#6163#0" />
-            <element signature="e#6165#6758#0" />
-            <element signature="e#6760#9032#0" />
-            <element signature="e#9034#15554#0" />
-            <element signature="e#15556#22094#0" />
-            <element signature="e#22096#25813#0" />
-            <element signature="e#25815#26381#0" />
-            <marker date="1555502287872" expanded="true" signature="1616:2588" ph="..." />
+            <element signature="e#159#637#0" />
+            <element signature="e#764#1352#0" />
+            <element signature="e#1354#3626#0" />
+            <element signature="e#3628#10148#0" />
+            <element signature="e#10150#16694#0" />
+            <element signature="e#16696#20413#0" />
+            <element signature="e#20415#20981#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_8.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding>
+            <element signature="e#350#454#0" expanded="true" />
           </folding>
         </state>
       </provider>

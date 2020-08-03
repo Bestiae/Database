@@ -47,10 +47,10 @@ RM = C:\Users\Bestiae\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\191.6183.7
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Bestiae\CLionProjects\untitled2
+CMAKE_SOURCE_DIR = C:\Users\Bestiae\CLionProjects\untitled4
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Bestiae\CLionProjects\untitled2\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\Bestiae\CLionProjects\untitled4\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -79,9 +79,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Bestiae\CLionProjects\untitled2\cmake-build-debug\CMakeFiles C:\Users\Bestiae\CLionProjects\untitled2\cmake-build-debug\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Bestiae\CLionProjects\untitled4\cmake-build-debug\CMakeFiles C:\Users\Bestiae\CLionProjects\untitled4\cmake-build-debug\CMakeFiles\progress.marks
 	$(MAKE) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Bestiae\CLionProjects\untitled2\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Bestiae\CLionProjects\untitled4\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -110,17 +110,17 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named untitled2
+# Target rules for targets named untitled4
 
 # Build rule for target.
-untitled2: cmake_check_build_system
-	$(MAKE) -f CMakeFiles\Makefile2 untitled2
-.PHONY : untitled2
+untitled4: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 untitled4
+.PHONY : untitled4
 
 # fast build rule for target.
-untitled2/fast:
-	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/build
-.PHONY : untitled2/fast
+untitled4/fast:
+	$(MAKE) -f CMakeFiles\untitled4.dir\build.make CMakeFiles/untitled4.dir/build
+.PHONY : untitled4/fast
 
 main.obj: main.c.obj
 
@@ -128,7 +128,7 @@ main.obj: main.c.obj
 
 # target to build an object file
 main.c.obj:
-	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/main.c.obj
+	$(MAKE) -f CMakeFiles\untitled4.dir\build.make CMakeFiles/untitled4.dir/main.c.obj
 .PHONY : main.c.obj
 
 main.i: main.c.i
@@ -137,7 +137,7 @@ main.i: main.c.i
 
 # target to preprocess a source file
 main.c.i:
-	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/main.c.i
+	$(MAKE) -f CMakeFiles\untitled4.dir\build.make CMakeFiles/untitled4.dir/main.c.i
 .PHONY : main.c.i
 
 main.s: main.c.s
@@ -146,8 +146,35 @@ main.s: main.c.s
 
 # target to generate assembly for a file
 main.c.s:
-	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/main.c.s
+	$(MAKE) -f CMakeFiles\untitled4.dir\build.make CMakeFiles/untitled4.dir/main.c.s
 .PHONY : main.c.s
+
+project_8.obj: project_8.c.obj
+
+.PHONY : project_8.obj
+
+# target to build an object file
+project_8.c.obj:
+	$(MAKE) -f CMakeFiles\untitled4.dir\build.make CMakeFiles/untitled4.dir/project_8.c.obj
+.PHONY : project_8.c.obj
+
+project_8.i: project_8.c.i
+
+.PHONY : project_8.i
+
+# target to preprocess a source file
+project_8.c.i:
+	$(MAKE) -f CMakeFiles\untitled4.dir\build.make CMakeFiles/untitled4.dir/project_8.c.i
+.PHONY : project_8.c.i
+
+project_8.s: project_8.c.s
+
+.PHONY : project_8.s
+
+# target to generate assembly for a file
+project_8.c.s:
+	$(MAKE) -f CMakeFiles\untitled4.dir\build.make CMakeFiles/untitled4.dir/project_8.c.s
+.PHONY : project_8.c.s
 
 # Help Target
 help:
@@ -155,12 +182,15 @@ help:
 	@echo ... all (the default if no target is provided)
 	@echo ... clean
 	@echo ... depend
-	@echo ... untitled2
+	@echo ... untitled4
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... project_8.obj
+	@echo ... project_8.i
+	@echo ... project_8.s
 .PHONY : help
 
 

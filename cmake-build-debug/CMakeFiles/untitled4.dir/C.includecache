@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Bestiae/CLionProjects/untitled4/main.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+time.h
+-
+project_8.h
+C:/Users/Bestiae/CLionProjects/untitled4/project_8.h
+
+C:/Users/Bestiae/CLionProjects/untitled4/project_8.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+time.h
+-
+windows.h
+-
+unistd.h
+-
+
