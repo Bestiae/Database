@@ -1,0 +1,10 @@
+956 4586.00 tester karol 8 6 1978
+1111 2500.00 dizajner petra 11 12 2001
+12 4200.00 developer tomas 3 8 1999
+845 3000.00 dizajner natalia 6 10 2003
+89652 1470.00 spravca lukas 21 6 1987
+6472 2200.00 tester roman 17 4 1993
+9007 2000.00 ekonom stefan 1 10 2000
+4982 1500.00 konzultant david 3 7 1996
+524 4120.00 technolog klaudia 15 7 1979
+123 3890.00 tester miro 2 9 1997

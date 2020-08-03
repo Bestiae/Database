@@ -2,7 +2,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include <time.h>
-#include "project_8.h"
+#include "project_9.h"
 
 char* pozicie[3] = {"devevloper", "analitik", "tester"};
 
@@ -29,7 +29,7 @@ void genZamenestnacov(Zamestnanec db[], int n){
     }
 }
 
-void printZamestnanec(const Zamestnanec* z){
+void  printZamestnanec(const Zamestnanec* z){
     int meno, pozicia;
     meno = strlen(z->udaje.meno);
     pozicia = strlen(z->pozicia);

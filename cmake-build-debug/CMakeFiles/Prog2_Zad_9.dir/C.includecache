@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Bestiae/CLionProjects/untitled4/main.c
+C:/Users/Bestiae/CLionProjects/Prog2_Zad.9/main.c
 stdio.h
 -
 string.h
@@ -15,10 +15,10 @@ stdlib.h
 -
 time.h
 -
-project_8.h
-C:/Users/Bestiae/CLionProjects/untitled4/project_8.h
+project_9.h
+C:/Users/Bestiae/CLionProjects/Prog2_Zad.9/project_9.h
 
-C:/Users/Bestiae/CLionProjects/untitled4/project_8.h
+C:/Users/Bestiae/CLionProjects/Prog2_Zad.9/project_9.h
 stdio.h
 -
 string.h
