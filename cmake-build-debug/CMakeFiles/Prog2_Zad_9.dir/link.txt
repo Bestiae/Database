@@ -1,3 +1,0 @@
-C:\Users\Bestiae\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\191.6183.77\bin\cmake\win\bin\cmake.exe -E remove -f CMakeFiles\Prog2_Zad_9.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\Prog2_Zad_9.dir/objects.a @CMakeFiles\Prog2_Zad_9.dir\objects1.rsp
-C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\Prog2_Zad_9.dir/objects.a -Wl,--no-whole-archive  -o Prog2_Zad_9.exe -Wl,--out-implib,libProg2_Zad_9.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Prog2_Zad_9.dir\linklibs.rsp

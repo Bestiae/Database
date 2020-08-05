@@ -1,5 +1,5 @@
-#ifndef PROG2_ZAD_9_PROJECT_9_H
-#define PROG2_ZAD_9_PROJECT_9_H
+#ifndef UNTITLED4_PROJECT_8_H
+#define UNTITLED4_PROJECT_8_H
 
 #include <stdio.h>
 #include <string.h>
@@ -45,5 +45,4 @@ void printWherePozicia(Zamestnanec db[], int n, int Z, char string[], int super_
 void printWhereMeno(Zamestnanec db[], int n, int Z, char string[], int super_znak);
 void printWhereDatum(Zamestnanec db[], int n, int Z, int den, int mesiac, int rok, int super_znak);
 
-
-#endif //PROG2_ZAD_9_PROJECT_9_H
+#endif //UNTITLED4_PROJECT_8_H

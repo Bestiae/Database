@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Bestiae/CLionProjects/Prog2_Zad.9/main.c
+D:/GitProjects/Database/main.c
 stdio.h
 -
 string.h
@@ -15,10 +15,22 @@ stdlib.h
 -
 time.h
 -
-project_9.h
-C:/Users/Bestiae/CLionProjects/Prog2_Zad.9/project_9.h
+project_8.h
+D:/GitProjects/Database/project_8.h
 
-C:/Users/Bestiae/CLionProjects/Prog2_Zad.9/project_9.h
+D:/GitProjects/Database/project_8.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+time.h
+-
+project_8.h
+D:/GitProjects/Database/project_8.h
+
+D:/GitProjects/Database/project_8.h
 stdio.h
 -
 string.h

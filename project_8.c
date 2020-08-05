@@ -2,7 +2,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include <time.h>
-#include "project_9.h"
+#include "project_8.h"
 
 char* pozicie[3] = {"devevloper", "analitik", "tester"};
 
